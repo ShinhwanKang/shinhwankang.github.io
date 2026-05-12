@@ -2,9 +2,9 @@
 layout: cv
 permalink: /cv/
 title: Download CV
-nav: false
-nav_order: 0
+nav: true
+nav_order: 1
 cv_pdf: /assets/pdf/ShinhwanKang_CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Download the above CV :)
 ---
